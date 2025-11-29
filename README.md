@@ -12,6 +12,9 @@ A collection of Waterfall Plumes suited for Interstellar Technologies in KSP
 ### Current list of planned support:
 - Far Future Technologies
 - Sterling Systems
+### Current list of features
+- Plumes that appear visually striking/TUFX.
+- Accurate plume options for Interstellar feasible engines.
 
 ---
 ### Recommended mods:
