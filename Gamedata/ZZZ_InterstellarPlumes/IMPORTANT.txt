@@ -1,0 +1,23 @@
+// - Sterling Plumes requires that you navigate to:
+
+//Gamedata/SterlingSystems/Engines/Waterfall/WFEnginesISV.cfg, and change:
+
+//@PART[strl-eng-1000-bcam]:NEEDS[StockWaterfallEffects]:LAST
+
+//@PART[strl-eng-???-icf]:NEEDS[StockWaterfallEffects]:LAST
+
+//@PART[strl-eng-250-icf]:NEEDS[StockWaterfallEffects]:LAST
+
+//TO:
+
+//@PART[strl-eng-1000-bcam]:NEEDS[StockWaterfallEffects]
+
+//@PART[strl-eng-???-icf]:NEEDS[StockWaterfallEffects]
+
+//@PART[strl-eng-250-icf]:NEEDS[StockWaterfallEffects]
+
+// - This will bypass the LAST loading and potentially fix issues with "dual waterfall" or "no replacement" for those who install the beta of this mod.
+
+// - Notify the mod author if this .txt file still exists or is not needed anymore.
+
+// <--- Ignore these dual slashes they're just there because I use a code editor, do not put these in a .cfg file, as they basically tell ksp to ignore that line of code.
